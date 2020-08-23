@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ApkInfoActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"></TextView>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="149dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_launcher_background"
+        android:id="@+id/image">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="138dp"></TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="235dp"
+        android:orientation="vertical"
+        tools:context=".ApkInfoActivity">
+
+        <TextView
+            android:id="@+id/name_of_app"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="hello"
+            android:textSize="50dp"
+            android:typeface="monospace"
+            >
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/time_of_app"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="hello"
+            android:gravity="center"
+            android:layout_gravity="left">
+
+        </TextView>
+
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></TextView>
+</LinearLayout>

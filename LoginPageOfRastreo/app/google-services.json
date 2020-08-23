@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "417213615188",
+    "firebase_url": "https://loginpageofrastreo.firebaseio.com",
+    "project_id": "loginpageofrastreo",
+    "storage_bucket": "loginpageofrastreo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417213615188:android:831088f1b7723a3656f1c1",
+        "android_client_info": {
+          "package_name": "com.example.loginpageofrastreo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417213615188-quidrjjqi0605culss7257nmgqao7vho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginpageofrastreo",
+            "certificate_hash": "68796f96038bc863918a0eccc7b052a1ad3d97f4"
+          }
+        },
+        {
+          "client_id": "417213615188-1sfoj7au0h7ir0e74uonn823ofptm6pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3hXBTKj1GU_LHXSqjTHnP6qbAwQdj8bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417213615188-1sfoj7au0h7ir0e74uonn823ofptm6pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
