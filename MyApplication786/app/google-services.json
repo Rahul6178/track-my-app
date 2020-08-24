@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56562151184",
+    "firebase_url": "https://droid-rush-project.firebaseio.com",
+    "project_id": "droid-rush-project",
+    "storage_bucket": "droid-rush-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56562151184:android:93cf00fe105e20f13eff95",
+        "android_client_info": {
+          "package_name": "com.example.myapplication786"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56562151184-h3rk8ncjrp395ekr42fmh05etcoeq0mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication786",
+            "certificate_hash": "d9e1725a1bf342dc401a0132ea418a8517d20ea5"
+          }
+        },
+        {
+          "client_id": "56562151184-5ut7qm9co56lnv791g5odg5j9ei6o42v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW6hB-jsLHEVCo44HpC5VXyn891FWoyW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56562151184-5ut7qm9co56lnv791g5odg5j9ei6o42v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
